@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestLiveAPI2</string>
+    <string name="facebook_app_id">1184906531682790</string> <string name="fb_login_protocol_scheme">fb1184906531682790</string>
+
+</resources>
